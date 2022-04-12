@@ -1,4 +1,4 @@
-# Appli: Social Network API
+# Appli: Application Tracker! 
 ![logo](./Assets/images/logo-icon.png)
 
 ## License
